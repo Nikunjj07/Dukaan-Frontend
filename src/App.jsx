@@ -1,6 +1,6 @@
 import './App.css'
 import { Buttons } from './components/Buttons'
-import { NavBar } from './components/Navbar'
+import { NavBar } from './components/NavBar'
 import { RevenueCard } from './components/RevenueCard'
 import { SearchBar } from './components/SearchBar'
 import { Sidebar } from './components/Sidebar'
